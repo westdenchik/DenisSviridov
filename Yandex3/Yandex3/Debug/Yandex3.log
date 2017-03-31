@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\msi-pc\documents\visual studio 2017\projects\yandex3\yandex3\source.cpp(8): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\msi-pc\documents\visual studio 2017\projects\yandex3\yandex3\source.cpp(9): warning C4018: <: несоответствие типов со знаком и без знака
+  Yandex3.vcxproj -> C:\Users\MSI-PC\documents\visual studio 2017\Projects\Yandex3\Debug\Yandex3.exe
+  Yandex3.vcxproj -> C:\Users\MSI-PC\documents\visual studio 2017\Projects\Yandex3\Debug\Yandex3.pdb (Partial PDB)

@@ -1,0 +1,6 @@
+﻿  task1.cpp
+d:\программы на с++\yandex\yandex\task1.cpp(12): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программы на с++\yandex\yandex\task1.cpp(26): warning C4018: <: несоответствие типов со знаком и без знака
+d:\программы на с++\yandex\yandex\task1.cpp(32): warning C4018: <: несоответствие типов со знаком и без знака
+  Yandex.vcxproj -> D:\Программы на С++\Yandex3\Debug\Yandex.exe
+  Yandex.vcxproj -> D:\Программы на С++\Yandex3\Debug\Yandex.pdb (Partial PDB)
